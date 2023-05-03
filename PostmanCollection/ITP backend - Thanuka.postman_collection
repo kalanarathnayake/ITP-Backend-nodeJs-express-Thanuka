@@ -10,7 +10,7 @@
 			"name": "GroupRecords",
 			"item": [
 				{
-					"name": "Get All Meeting records",
+					"name": "Get All Group records",
 					"request": {
 						"method": "GET",
 						"header": [],
@@ -31,7 +31,7 @@
 					"response": []
 				},
 				{
-					"name": "Get Meeting record by id",
+					"name": "Get Group record by id",
 					"request": {
 						"method": "GET",
 						"header": [],
@@ -52,7 +52,7 @@
 					"response": []
 				},
 				{
-					"name": "Delete Meeting record",
+					"name": "Delete Group record",
 					"request": {
 						"method": "DELETE",
 						"header": [
@@ -87,7 +87,7 @@
 					"response": []
 				},
 				{
-					"name": "Add Meeting record",
+					"name": "Add Group record",
 					"request": {
 						"method": "POST",
 						"header": [
@@ -124,7 +124,7 @@
 					"response": []
 				},
 				{
-					"name": "Edit Meeting record",
+					"name": "Edit Group record",
 					"request": {
 						"method": "PUT",
 						"header": [

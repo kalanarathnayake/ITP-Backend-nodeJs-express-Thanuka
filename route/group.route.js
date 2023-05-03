@@ -9,8 +9,8 @@ const {
     updateGroup,
 } = require("../controller/Group.controller");
 
-//@route  POST api/meeting
-//@desc   add meeting
+//@route  POST api/Group
+//@desc   add Group
 router.post("/add", addGroup);
 
 //@route  GET api/Group
